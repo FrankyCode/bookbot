@@ -1,0 +1,5 @@
+# Cache Files
+/__pycache__
+
+# Data
+/books
